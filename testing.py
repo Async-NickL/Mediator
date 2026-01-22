@@ -22,3 +22,4 @@ cur.close()
 conn.close()
 
 print("All tables created successfully!")
+print("Hello from Arman")
